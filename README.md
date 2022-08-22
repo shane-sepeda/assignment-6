@@ -30,3 +30,6 @@ JS (assets/js/script.css)
 # Screenshot
 
 # Repository
+https://github.com/shane-sepeda/assignment-6/
+# Deployed Webpage
+https://shane-sepeda.github.io/assignment-6/
