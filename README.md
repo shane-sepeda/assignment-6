@@ -23,6 +23,9 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 # Assets
+HTML (index.html)
+CSS (assets/css/style.css)
+JS (assets/js/script.css)
 
 # Screenshot
 
