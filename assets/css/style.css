@@ -1,0 +1,17 @@
+body {
+    font-family: 'Arial';
+}
+
+.btn { 
+    justify-content:center;
+    text-align: center;
+    width: 100%;
+    background-color: green;
+    color: grey;
+}
+
+.form-input {
+    justify-content:center;
+    text-align: center;
+    width: 100%;
+}
